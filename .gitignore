@@ -1,0 +1,11 @@
+
+# 🚫 Secrets
+.env
+
+# 🚫 Python junk
+__pycache__/
+*.pyc
+
+# 🚫 Virtual environment folders
+vision-env/
+.venv/
